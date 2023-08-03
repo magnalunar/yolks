@@ -14,8 +14,3 @@ or type of game.
 * [`games`](https://github.com/magnalunar/yolks/tree/master/games)
   * [`source`](https://github.com/magnalunar/yolks/tree/master/games/source)
     * `ghcr.io/magnalunar/games:source`
-
-### Installation Images
-
-* [`debian-install`](https://github.com/magnalunar/yolks/tree/master/installers/debian)
-  * `ghcr.io/magnalunar/installers:debian`
